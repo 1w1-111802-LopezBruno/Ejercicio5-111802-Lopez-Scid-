@@ -1,0 +1,10 @@
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.frmEj5.resources
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.Properties.Resources.resources
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\bruno\Desktop\Tecnicatura\Primer Semestre\Programación\Visual Studio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
